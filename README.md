@@ -10,5 +10,11 @@ It involves filtering the dataset to include only "Cabernet Sauvignon", "Pinot N
 Histograms are then generated to visualise the distribution of wine ratings.
 The dataset used for this task is the wine.csv file.
 
-
+Data Visualisation - Tableau:
+This file demonstrates utilising Tableau to analyze the 2014 Inc. 5000 dataset. 
+It focuses on various aspects of company growth and characteristics.
+It also answers key questions about geographical insights and workforce impacts.
+It present findings through graphs and visual representations generated within Tableau, 
+ensuring clarity and technical accuracy in conveying insights related to each question.
+The dataset used for this task is the Data Set - Inc5000 Company List_2014.csv file.
 
